@@ -64,6 +64,10 @@ nav{
     top: 0;
 }
 
+.btn {
+    cursor: pointer;
+}
+
 .register{
     height: 50px;
     width: 250px;
