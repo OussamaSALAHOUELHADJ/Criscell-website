@@ -149,4 +149,8 @@ font-weight: lighter;
     font-weight: lighter;
 }
 
-
+.we-img {
+    display: inline-block;
+    height: 300px;
+    width: 25vw;
+}
